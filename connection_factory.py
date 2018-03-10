@@ -1,6 +1,7 @@
 # -*- coding: UTF-8 -*-
 
 import MySQLdb
+"""FACTORY"""
 
 class Connection_Factory(Object)
 
